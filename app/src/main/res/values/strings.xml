@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MapsDemo</string>
+    <string name="login_hint_user">Usuario</string>
+    <string name="login_hint_password">Contraseña</string>
+    <string name="login_button_loggin">INICIAR SESIÓN</string>
+    <string name="login_error_mail">Debe ingresar un usuario válido</string>
+    <string name="login_error_password">Debe ingresar una contraseña válida</string>
+    <string name="edit_user">Editar usuario</string>
+    <string name="log_out">Cerrar sesión</string>
+    <string name="user_name">Nombre Usuario</string>
+    <string name="open">Abrir</string>
+    <string name="close">Cerrar</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="login_button_edit">EDITAR USUARIO</string>
+    <string name="accept">Aceptar</string>
+</resources>

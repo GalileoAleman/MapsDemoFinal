@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary_dark">#345332</color>
+    <color name="primary">#29957E</color>
+    <color name="primary_light">#7BE4CE</color>
+
+    <color name="secondary_dark">#CDCDCD</color>
+    <color name="secondary">#2E353F</color>
+    <color name="secondary_light">#FFFFFF</color>
+    <color name="secondary_light_60">#99FFFFFF</color>
+
+    <color name="background">#FFFFFF</color>
+    <color name="background_dark">#1B1D29</color>
+    <color name="statusbar">#29957E</color>
+
+
+    <color name="error">#e84545</color>
+    <color name="error_dark">#d32f2f</color>
+
+    <color name="primary_icon">#EBF0F2</color>
+
+    <color name="white_50">#80FFFFFF</color>
+
+</resources>
